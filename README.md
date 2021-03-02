@@ -12,7 +12,7 @@
      aria-label="Rechercher parmi le contenu du site">
     <button>Rechercher</button>
   </div>
-</form><img class="project-pic" src="https://m.gifmania.be/Gif-Animes-Jeux-Video/Animations-Jeux-Video-Arcade-Classiques/Images-Gif-Jeux-Video-Classiques/Jeux-Video-Classiques-67074.gif" style="width: 150px;" />
+</form><img class="project-pic" src="https://media.tenor.com/images/8ddb9bfaf25874ae2b183715b5f83275/tenor.gif" style="width: 250px;" />
 <img class="project-pic" src="https://www.zakstudio.com/wp-content/uploads/2012/12/gif-anime-jeu-video-rambo.gif" style="width: 150px;" />
 <img class="project-pic" src="https://images6.fanpop.com/image/photos/42000000/Mortal-Kombat-11-GIF-video-games-42098248-540-268.gif" style="width: 150px;" />
 <p></p>
