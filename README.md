@@ -21,11 +21,11 @@
 <img class="project-pic" src="https://images.squarespace-cdn.com/content/v1/5a7aea36edaed8a02695b11d/1547654539199-XY0MVDUGILHC399N8ZY4/ke17ZwdGBToddI8pDm48kIFBz-J9G1GnGgEyRuZ7qvlZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFp0_6UolxFujChiOCFgmAkXK_6YgKXGvCz1u287OvqEzqWIIaSPh2v08GbKqpiV54/zachary-soares-knight-run.gif" style="width: 150px;" />
 
 <p></p>
-    <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil</a></button>
+    <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil</a></button>
     <p> </p>
-    <a href="https://maevebestdev.github.io/About_Us/">About us</a>
+    <a href="https://nsi-team.github.io/About_us/">About us</a>
     <p></p>
-    <a href="https://maevebestdev.github.io/Help/">Help</a>
+    <a href="https://nsi-team.github.io/Help/">Help</a>
     <p></p>
-    <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
+    <a href="https://nsi-team.github.io/Contact_Us/">Contact us</a>
 
