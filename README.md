@@ -5,14 +5,11 @@
     </head>
 
   <body>
-    <form role="search">
-  <div>
-    <input type="search" id="maRecherche" name="q"
-     placeholder="Rechercher sur le site…"
-     aria-label="Rechercher parmi le contenu du site">
-    <button>Rechercher</button>
-  </div>
-</form><img class="project-pic" src="https://media.tenor.com/images/8ddb9bfaf25874ae2b183715b5f83275/tenor.gif" style="width: 150px;" />
+<form>
+<input type="text" id="input" name="input" value="">
+<input type="button" id="bouton" value="Rechercher" onclick="controle()">
+</form>
+<img class="project-pic" src="https://media.tenor.com/images/8ddb9bfaf25874ae2b183715b5f83275/tenor.gif" style="width: 150px;" />
 <img class="project-pic" src="https://www.zakstudio.com/wp-content/uploads/2012/12/gif-anime-jeu-video-rambo.gif" style="width: 150px;" />
 <img class="project-pic" src="https://images6.fanpop.com/image/photos/42000000/Mortal-Kombat-11-GIF-video-games-42098248-540-268.gif" style="width: 150px;" />
 <p></p>
