@@ -6,7 +6,7 @@
 
   <body>
 <form>
-<input type="text" id="input" name="input" value="">
+<input type="text" id="input" name="input" placeholder="Rechercher sur le site…">
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
 <img class="project-pic" src="https://media.tenor.com/images/8ddb9bfaf25874ae2b183715b5f83275/tenor.gif" style="width: 150px;" />
