@@ -9,6 +9,7 @@
 <input type="text" id="input" name="input" placeholder="Rechercher sur le site…">
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
+<p>Résultat de recherche pour "jeux vidéos"</p>
 <img class="project-pic" src="https://media.tenor.com/images/8ddb9bfaf25874ae2b183715b5f83275/tenor.gif" style="width: 150px;" />
 <img class="project-pic" src="https://www.zakstudio.com/wp-content/uploads/2012/12/gif-anime-jeu-video-rambo.gif" style="width: 150px;" />
 <img class="project-pic" src="https://images6.fanpop.com/image/photos/42000000/Mortal-Kombat-11-GIF-video-games-42098248-540-268.gif" style="width: 150px;" />
